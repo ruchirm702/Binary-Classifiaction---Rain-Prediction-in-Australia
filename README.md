@@ -1,5 +1,16 @@
 # Binary Classification - Rain Prediction in Australia
 
+![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-1f77b4?style=for-the-badge&logo=seaborn&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Logistic Regression](https://img.shields.io/badge/Logistic%20Regression-019875?style=for-the-badge&logo=regression&logoColor=white)
+![GridSearchCV](https://img.shields.io/badge/GridSearchCV-FF5733?style=for-the-badge&logo=search&logoColor=white)
+![Cross Validation](https://img.shields.io/badge/Cross%20Validation-6A5ACD?style=for-the-badge&logo=cv&logoColor=white)
+![ROC AUC](https://img.shields.io/badge/ROC%20AUC-32CD32?style=for-the-badge&logo=roc&logoColor=white)
+
 ## EDA + Visualization + Preprocessing + Feature Engineering + Modelling + Evaluation
 
 ## Results and Conclusion
