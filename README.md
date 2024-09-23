@@ -12,7 +12,6 @@
 ![ROC AUC](https://img.shields.io/badge/ROC%20AUC-32CD32?style=for-the-badge&logo=roc&logoColor=white)
 
 ## EDA + Visualization + Preprocessing + Feature Engineering + Modelling + Evaluation
-
 ## Results and Conclusion
 
 1. **Logistic Regression Model Performance**
@@ -53,5 +52,4 @@
 - Cross-validation and GridSearch CV provide insights into model stability and slight performance enhancements.
 
 ---
-
 This report presents a clear and concise overview of the logistic regression model's performance in predicting rain in Australia, highlighting the key findings and implications of the results.
